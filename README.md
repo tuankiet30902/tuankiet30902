@@ -1,49 +1,61 @@
-<!-- 💫 Animated GitHub Profile README for tuankiet30902 -->
+<!-- 🌈 Animated & Dynamic GitHub Profile README for tuankiet30902 -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=2800&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Trần+Tuấn+Kiệt+👋;A+Passionate+Web+Developer+💻;I+love+turning+ideas+into+reality+✨" alt="Typing SVG" />
-</h1>
-
----
-
-### 🌈 About Me
-🎯 I’m a developer who enjoys building **interactive, scalable, and creative web apps**.  
-💡 My approach to coding: *clean, efficient, and always evolving*.  
-🔥 I enjoy working with **AngularJS**, **Node.js**, and **MongoDB**.  
-🧠 I’m constantly learning new tools to level up my craft.  
-🎵 Music, coffee, and late-night coding = perfect combo ☕🎧  
-
----
-
-### ⚡ Tech Stack
+<!-- Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=2800&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Trần+Tuấn+Kiệt+👋;Creative+Fullstack+Developer+💻;Lover+of+Tech,+Design,+and+Innovation+✨" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,nodejs,express,mongodb,docker,html,css,git,github,vscode" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E7FF&height=90&section=header"/>
 </p>
 
 ---
 
-### 📊 GitHub Insights
+### ⚡ About Me
+🎯 **Turning ideas into reality through clean and creative code**  
+💡 I love working with modern web technologies and designing beautiful user experiences  
+🧠 Always learning, always improving  
+🎵 Coding with lo-fi music & a cup of coffee ☕  
+
+---
+
+### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuankiet30902&show_icons=true&theme=radical&hide_border=false&border_radius=12&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuankiet30902&theme=radical&hide_border=false&border_radius=12" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuankiet30902&layout=compact&theme=radical&hide_border=false&border_radius=12" height="165" />
+  <img src="https://skillicons.dev/icons?i=typescript,css,cpp,java,javascript,angular,nodejs,nextjs,npm,express,webpack,react,reactnative,socketio,jwt,redis,nginx,mysql,mongodb,postgres,figma,canva,git,github,postman,jira,docker&perline=9" />
 </p>
 
 ---
 
-### 🪄 Current Focus
-🚀 Building smooth user experiences with AngularJS  
-🧩 Optimizing backend APIs using Node.js + MongoDB  
-☁️ Exploring containerization & deployment with Docker  
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuankiet30902&show_icons=true&theme=tokyonight&hide_border=false&border_radius=12&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuankiet30902&theme=tokyonight&hide_border=false&border_radius=12" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuankiet30902&layout=compact&theme=tokyonight&hide_border=false&border_radius=12" height="165" />
+</p>
 
 ---
 
-### 🌐 Connect with Me
+### 🧠 Current Focus
+🌐 Fullstack Web Development  
+⚙️ Scalable Architecture & API Design  
+🎨 Frontend UI/UX with Angular & React  
+🚀 DevOps with Docker, Redis, and Nginx  
+
+---
+
+### 🎧 Currently Vibing To
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31vqyjtxm7nfk5mwktc6x3p3xj3u&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color_cover=true" />
+</p>
+
+---
+
+### 💬 Let's Connect!
 
 <p align="center">
   <a href="mailto:trantuankiet30902@gmail.com">
@@ -59,15 +71,12 @@
 
 ---
 
-### 🎧 Currently Vibing To
+<h3 align="center">✨ “Keep learning, keep creating, keep evolving.” ✨</h3>
+
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31vqyjtxm7nfk5mwktc6x3p3xj3u&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
----
-
-<h3 align="center">✨ “Build things that make people say wow.” ✨</h3>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E7FF&height=90&section=footer"/>
 </p>
