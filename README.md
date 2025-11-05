@@ -1,49 +1,73 @@
-# 👋 Hi, I'm Trần Tuấn Kiệt
+<!-- 💫 Animated GitHub Profile README for tuankiet30902 -->
 
-🚀 **Founder & CEO of [MindCare](https://mindcare.vn)** — building the future of mental health technology.  
-💻 Passionate about **software architecture**, **web applications**, and creating tools that make people's lives better.
-
----
-
-### 🧠 About Me
-- 🎯 Always exploring the intersection of **technology** and **human well-being**.  
-- 💡 Focused on clean architecture, modular design, and user-centric thinking.  
-- 🧩 Experienced in **AngularJS**, **Node.js**, **MongoDB**, and **Docker**.  
-- ⚙️ I love solving complex problems through elegant code.
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=2800&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Trần+Tuấn+Kiệt+👋;A+Passionate+Web+Developer+💻;I+love+turning+ideas+into+reality+✨" alt="Typing SVG" />
+</h1>
 
 ---
 
-### 🛠️ Tech Stack
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🌈 About Me
+🎯 I’m a developer who enjoys building **interactive, scalable, and creative web apps**.  
+💡 My approach to coding: *clean, efficient, and always evolving*.  
+🔥 I enjoy working with **AngularJS**, **Node.js**, and **MongoDB**.  
+🧠 I’m constantly learning new tools to level up my craft.  
+🎵 Music, coffee, and late-night coding = perfect combo ☕🎧  
 
 ---
 
-### 🏗️ Current Projects
-- 🧭 **MindCare** – mental health companion platform  
-- 🧠 **Task Management System** – modular permission-based workflow system  
-- 🚘 **Office Car Management** – vehicle scheduling & approval workflow  
+### ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,nodejs,express,mongodb,docker,html,css,git,github,vscode" />
+</p>
 
 ---
 
-### 🌱 Fun Facts
-- ☕ Caffeine + Code = Productivity  
-- 🧩 I believe great design is invisible  
-- 🔥 Motto: *“Build systems, not shortcuts.”*
+### 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuankiet30902&show_icons=true&theme=radical&hide_border=false&border_radius=12&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuankiet30902&theme=radical&hide_border=false&border_radius=12" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuankiet30902&layout=compact&theme=radical&hide_border=false&border_radius=12" height="165" />
+</p>
 
 ---
 
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/trantuankiet)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tran.tuan.kiet@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/trantuankiet)
+### 🪄 Current Focus
+🚀 Building smooth user experiences with AngularJS  
+🧩 Optimizing backend APIs using Node.js + MongoDB  
+☁️ Exploring containerization & deployment with Docker  
 
 ---
 
-> 💬 *“Code is like humor. When you have to explain it, it’s bad.”*
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:trantuankiet30902@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/tuankiet30902" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/trantuankiet30902" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
-⭐️ *If you like what I do, consider starring some of my repositories!*
+
+### 🎧 Currently Vibing To
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31vqyjtxm7nfk5mwktc6x3p3xj3u&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true" />
+</p>
+
+---
+
+<h3 align="center">✨ “Build things that make people say wow.” ✨</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=100&section=footer"/>
+</p>
