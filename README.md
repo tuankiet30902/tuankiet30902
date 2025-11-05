@@ -2,8 +2,9 @@
 
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=2800&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Trần+Tuấn+Kiệt+👋;Creative+Fullstack+Developer+💻;Lover+of+Tech,+Design,+and+Innovation+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=2800&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Tr%E1%BA%A7n+Tu%E1%BA%A5n+Ki%E1%BB%87t+👋;Creative+Fullstack+Developer+💻;Lover+of+Tech,+Design,+and+Innovation+✨" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00E7FF&height=90&section=header"/>
