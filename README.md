@@ -1,9 +1,6 @@
 <!-- 🌈 Animated & Dynamic GitHub Profile README for tuankiet30902 -->
 
 <!-- Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=2800&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Tr%E1%BA%A7n+Tu%E1%BA%A5n+Ki%E1%BB%87t+👋;Creative+Fullstack+Developer+💻;Lover+of+Tech,+Design,+and+Innovation+✨" alt="Typing SVG" />
-</p>
 
 
 <p align="center">
@@ -59,7 +56,7 @@
 ### 💬 Let's Connect!
 
 <p align="center">
-  <a href="mailto:trantuankiet30902@gmail.com">
+  <a href="mailto:trantuankiet3092002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/tuankiet30902" target="_blank">
